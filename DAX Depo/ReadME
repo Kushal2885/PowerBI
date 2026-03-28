@@ -1,0 +1,8 @@
+In this project, I analyzed a sales dataset using Power BI. First, I imported the data and performed data cleaning using Power Query. 
+Then, I created calculated columns such as Profit and Return Flag, and combined customer names to create a full name column.
+I developed important measures like Total Sales, Total Profit, Return Rate, and Average Sale using DAX. 
+To understand filter behavior, I applied functions like CALCULATE(), ALL(), and FILTER(). 
+I used RELATED() to fetch data from related tables and implemented Time Intelligence functions such as SAMEPERIODLASTYEAR() for yearly 
+comparison and running totals.
+Finally, I created a Matrix visual to display sales data by Region, Product Category, and Customer Segment across months and years. 
+This project helped me understand data modeling, DAX functions, and data visualization in Power BI.
